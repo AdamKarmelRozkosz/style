@@ -1,0 +1,76 @@
+body
+{
+    background-color: dimgray;
+}
+.content
+{
+    position: absolute;
+    left: 645px;
+    top: 225px;
+    width: 630px;
+    height: 630px;
+}
+div
+{
+    border: solid 5px white;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+}
+.topleft, .middleleft, .bottomleft
+{
+    float: left;
+    background-color: blue;
+}
+.topcenter, .middlecenter, .bottomcenter
+{
+    float: left;
+    background-color: red;
+}
+.topright, .middleright, .bottomright
+{
+    float: left;
+    background-color: green;
+}
+h1
+{
+    text-align: center;
+}
+.topleft
+{
+    background-image: url(zydzi.jpg)
+}
+.topcenter
+{
+    background-image: url(jechowi.jpg);
+}
+.topright
+{
+    background-image: url(osama.jpg);
+}
+.middleleft
+{
+    background-image: url(zodiakara.jpg);
+}
+.middlecenter
+{
+    background-image: url(marcel.jpg);
+    border: 5px groove rgb(243, 64, 64);
+}
+.middleright
+{
+    background-image: url(kamieniary.jpg);
+}
+
+.bottomleft
+{
+    background-image: url(niggas.jpg);
+}
+.bottomcenter
+{
+    background-image: url(alternatywki.jpg);
+}
+.bottomright
+{
+    background-image: url(arnold.jpg);
+}
