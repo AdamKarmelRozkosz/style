@@ -13,24 +13,24 @@ body
 div
 {
     border: solid 5px white;
-    text-align: center;
+    /* text-align: center; */
     height: 200px;
     width: 200px;
 }
 .topleft, .middleleft, .bottomleft
 {
     float: left;
-    background-color: blue;
+    /* background-color: blue; */
 }
 .topcenter, .middlecenter, .bottomcenter
 {
     float: left;
-    background-color: red;
+    /* background-color: red; */
 }
 .topright, .middleright, .bottomright
 {
     float: left;
-    background-color: green;
+    /* background-color: green; */
 }
 h1
 {
